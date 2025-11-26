@@ -1,4 +1,4 @@
-<img width="1344" height="768" alt="Gemini_Generated_Image_5smrhm5smrhm5smr" src="https://github.com/user-attachments/assets/d793205f-edd1-45ee-bce4-8a9de6386afd" /># Finance-and-Bank-Domain-Full-Stack-Data-Analysis
+# Finance-and-Bank-Domain-Full-Stack-Data-Analysis
 This Power BI solution delivers a complete analytical system for tracking loan performance, understanding customer demographics, and identifying risks. It is ideal for banks, credit institutions, data analysts, and BI practitioners who want actionable insights from loan datasets.
 
 
