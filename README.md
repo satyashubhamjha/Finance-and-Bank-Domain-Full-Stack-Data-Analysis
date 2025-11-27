@@ -34,7 +34,7 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 
 ## 📊 Summary Dashboard
 
-[![Loan Summary Dashboard](https://img.shields.io/badge/VIEW%20DASHBOARD-Click%20Here-blue?style=for-the-badge&logo=google-analytics)]([https://your-dashboard-link-here](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/Summary%20Dasboard.png))
+[![Loan Summary Dashboard Preview](images/dashboard_preview.png)]([https://your-dashboard-link-here](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/Summary%20Dasboard.png))
 
 
 
