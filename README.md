@@ -25,7 +25,7 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 | Loan Type | Metrics | Description |
 |----------|---------|-------------|
 | 🟢 **Good Loan** | 📈 Good Loan Application Percentage | Percentage of applications that are classified as good loans |
-| 🟢 **Good Loan** | 🧾 Good Loan Applications | Total number of good loan applications |
+| 🟢 **Good Loan** | 🧾 Good Loan Applications | Total number of good loan applications | 
 | 🟢 **Good Loan** | 💰 Good Loan Funded Amount | Total funded amount for good loans |
 | 🟢 **Good Loan** | 💵 Good Loan Total Received Amount | Total amount received from good loans |
 | 🔴 **Bad Loan** | 📉 Bad Loan Application Percentage | Percentage of applications that are classified as bad loans |
