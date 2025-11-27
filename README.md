@@ -62,7 +62,7 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/Finance_and_Bank_Loan_Analysis.ipynb)
 
-## 📊 Finance Domain Concepts – Mind Map
+## 📊 Finance Domain Overall Analysis – Mind Map
 
 <p align="center">
   <img src="https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/Mind%20Map%20Of%20Overall%20Analysis.png" width="650" />
