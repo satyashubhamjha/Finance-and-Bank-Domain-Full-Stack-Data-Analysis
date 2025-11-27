@@ -3,8 +3,8 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 
 
 
-### Raw Dataset For This Project :-
-<a href="https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/financial_loan_data_excel.xlsx"> xlsx dataset </a>
+[![Excel](https://img.shields.io/badge/Excel-Download-green?style=for-the-badge&logo=microsoft-excel&logoColor=white)]([your-excel-file-link.xlsx](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/financial_loan_data_excel.xlsx))
+
 ### PROBLEM STATEMENTS:-
 <img width="1344" height="768" alt="Gemini_Generated_Image_5smrhm5smrhm5smr" src="https://github.com/user-attachments/assets/26ba9e7a-0fa4-498a-b756-eaca8bd4a004" />
 
