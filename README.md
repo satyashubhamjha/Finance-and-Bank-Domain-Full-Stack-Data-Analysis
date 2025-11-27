@@ -62,6 +62,20 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/Finance_and_Bank_Loan_Analysis.ipynb)
 
+├── data/  
+│   ├── financial_loan_data_excel.xlsx  
+│   └── cleaned_data.csv  
+├── sql/  
+│   └── summary.sql  
+├── notebooks/  
+│   └── Finance_and_Bank_Loan_Analysis.ipynb  
+├── reports/  
+│   └── Summary Dashboard.png  
+├── pbix/  
+│   └── project(2)finance.pbix  
+└── README.md
+
+
 
 
 
