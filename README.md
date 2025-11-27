@@ -51,17 +51,6 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 
 :sparkles: Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
-## 🛠️ Tools Used
-
-| Tool | Purpose |
-|------|---------|
-| 📊 **Excel** | Data cleaning, preprocessing |
-| 📈 **Power BI** | Dashboard building, visualization |
-| 🐍 **Python** | Data analysis & modeling |
-| 🐼 **Pandas** | Data manipulation |
-| 🔢 **NumPy** | Numerical computation |
-| 📓 **Jupyter Notebook** | Experimentation & coding environment |
-
 
 ## 🛠️ Tools Used
 
