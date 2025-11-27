@@ -38,17 +38,17 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 
 ### (KPIs) Requirements For Summary Dashboard:-
 
-:sparkles:#### Monthly Trends by Issue Date (Line Chart):  To identify seasonality and long-term trends in lending activities.
+:sparkles: Monthly Trends by Issue Date (Line Chart):-  To identify seasonality and long-term trends in lending activities.
 
-:sparkles:#### Regional Analysis by State (Filled Map): To identify regions with significant lending activity and assess regional disparities.
+:sparkles: Regional Analysis by State (Filled Map):- To identify regions with significant lending activity and assess regional disparities.
 
-:sparkles:#### Loan Term Analysis (Donut Chart): To allow the client to understand the distribution of loans across various term lengths.
+:sparkles: Loan Term Analysis (Donut Chart):- To allow the client to understand the distribution of loans across various term lengths.
 
-:sparkles:#### Employee Length Analysis (Bar Chart): How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
+:sparkles: Employee Length Analysis (Bar Chart):- How lending metrics are distributed among borrowers with different employment lengths, helping us assess the impact of employment history on loan applications.
 
-:sparkles:#### Loan Purpose Breakdown (Bar Chart): Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
+:sparkles: Loan Purpose Breakdown (Bar Chart):- Will provide a visual breakdown of loan metrics based on the stated purposes of loans, aiding in the understanding of the primary reasons borrowers seek financing.
 
-:sparkles:#### Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
+:sparkles: Home Ownership Analysis (Tree Map): For a hierarchical view of how home ownership impacts loan applications and disbursements.
 
 
 
