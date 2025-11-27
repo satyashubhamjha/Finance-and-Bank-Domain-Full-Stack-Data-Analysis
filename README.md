@@ -32,7 +32,7 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 | 🔴 **Bad Loan** | 💸 Bad Loan Funded Amount | Total funded amount for bad loans |
 | 🔴 **Bad Loan** | 🚫 Bad Loan Total Received Amount | Total amount received from bad loans |
 
-<a href= https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/Summary%20Dasboard.png /> SUMMARY DASHBOARD a/>
+[![Loan Summary Dashboard](https://img.shields.io/badge/VIEW%20DASHBOARD-Click%20Here-blue?style=for-the-badge&logo=google-analytics)](https://github.com/satyashubhamjha/Finance-and-Bank-Domain-Full-Stack-Data-Analysis/blob/main/Summary%20Dasboard.png)
 
 
 
