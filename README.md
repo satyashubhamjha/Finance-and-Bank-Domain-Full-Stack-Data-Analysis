@@ -9,7 +9,7 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 <img width="1344" height="768" alt="Gemini_Generated_Image_5smrhm5smrhm5smr" src="https://github.com/user-attachments/assets/26ba9e7a-0fa4-498a-b756-eaca8bd4a004" />
 
 ## Problem Statements:
-### (KPIs) Requirements:-
+### (KPIs) Requirements For Summary Dashboard:-
 :sparkles: Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 
 :sparkles: Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
@@ -31,6 +31,9 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 | 🔴 **Bad Loan** | 🧾 Bad Loan Applications | Total number of bad loan applications |
 | 🔴 **Bad Loan** | 💸 Bad Loan Funded Amount | Total funded amount for bad loans |
 | 🔴 **Bad Loan** | 🚫 Bad Loan Total Received Amount | Total amount received from bad loans |
+
+<a href= <img width="2024" height="1164" alt="image" src="https://github.com/user-attachments/assets/a088fab5-a759-438a-beb6-f763f8203915" />
+
 
 
 
