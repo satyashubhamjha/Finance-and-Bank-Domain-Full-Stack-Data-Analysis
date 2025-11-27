@@ -70,7 +70,7 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 
 > **Figure:** Mind map covering core components of the Finance & Banking domain.
 
-
+ 
 
 
 
