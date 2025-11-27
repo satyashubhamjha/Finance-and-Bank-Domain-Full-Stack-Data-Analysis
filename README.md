@@ -63,6 +63,16 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 | 📓 **Jupyter Notebook** | Experimentation & coding environment |
 
 
+## 🛠️ Tools Used
+
+- ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power%20bi&logoColor=black)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+- ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+
+
 
 
 
