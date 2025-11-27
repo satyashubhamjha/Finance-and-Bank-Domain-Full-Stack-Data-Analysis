@@ -9,7 +9,7 @@ This Power BI solution delivers a complete analytical system for tracking loan p
 ### PROBLEM STATEMENTS:-
 <img width="1344" height="768" alt="Gemini_Generated_Image_5smrhm5smrhm5smr" src="https://github.com/user-attachments/assets/26ba9e7a-0fa4-498a-b756-eaca8bd4a004" />
 
-## Problem Statements:
+
 ### ⬇️(KPIs) Requirements For Summary Dashboard:-
 :sparkles:Total Loan Applications:- We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
 
